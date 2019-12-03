@@ -3,12 +3,7 @@
 
 <suite name="Hub Spot Sanity Test Automation Suite" verbose="3">
 
-<listeners>
-		<listener class-name="com.qa.hubspot.Listeners.ExtentReprtListener" />
-		<listener class-name="com.qa.hubspot.Listeners.AllureReportListener" />
-		
 
-	</listeners>
 
 <test name="Hub Spot App Sanity Test">
 
